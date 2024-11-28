@@ -1,0 +1,11 @@
+# Ignore build files
+bin/
+obj/
+dist/
+.next/
+
+# Logs
+*.log
+
+# Local development databases
+*.db
